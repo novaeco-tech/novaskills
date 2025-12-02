@@ -1,4 +1,4 @@
 # NovaSkills Enabler
 
 Welcome to the `NovaSkills` Horizontal Enabler.
-Education, skill‑sharing, labor coordination.
+Verification system for human labor certifications and degrees.
